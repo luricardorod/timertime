@@ -1,0 +1,18 @@
+{
+  "name": "timertime",
+  "version": "0.0.1",
+  "main": "app.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.13-build.2255",
+    "angular-bootstrap": "~0.10.0",
+    "bootstrap": "~3.1.0",
+    "jquery": "~2.1.0"
+  }
+}
